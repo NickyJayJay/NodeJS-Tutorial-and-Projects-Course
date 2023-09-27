@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-tutorial-and-projects-course",
+  "version": "1.0.0",
+  "main": "1-intro.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickyJayJay/NodeJS-Tutorial-and-Projects-Course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NickyJayJay/NodeJS-Tutorial-and-Projects-Course/issues"
+  },
+  "homepage": "https://github.com/NickyJayJay/NodeJS-Tutorial-and-Projects-Course#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "lodash": "^4.17.21"
+  }
+}
