@@ -1,7 +1,10 @@
 {
   "name": "nodejs-tutorial-and-projects-course",
   "version": "1.0.0",
-  "main": "1-intro.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NickyJayJay/NodeJS-Tutorial-and-Projects-Course.git"
@@ -14,7 +17,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.2",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
